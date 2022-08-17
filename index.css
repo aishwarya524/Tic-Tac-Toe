@@ -1,0 +1,45 @@
+body{
+    background-color: rgb(9, 204, 204) !important;
+    color: white !important;
+}
+
+.container{
+    text-align: center;
+}
+
+.container1{
+    margin-top: 50px;
+}
+
+.col-xs-4{
+    height: 80px;
+    width: 80px;
+    font-size: 48px;
+}
+
+.cols{
+    border: 5px rgb(36, 88, 88);
+    border-style: none solid none solid;  
+}
+
+.cols1{
+    border: 5px rgb(36, 88, 88);
+    border-style: solid none solid none;  
+}
+
+.cols2{
+    border: 5px solid rgb(36, 88, 88);
+}
+
+.rows{
+    min-width: 240px;
+    display: flex;
+    justify-content: center;
+    margin: auto;
+}
+
+h4{
+    width: 200px;
+    margin: auto;
+    padding: 5px;
+}
